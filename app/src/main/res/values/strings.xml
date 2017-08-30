@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">News Application</string>
+    <string name="progress_title">Downloading</string>
+    <string name="progress_body">Downloading news</string>
+</resources>
